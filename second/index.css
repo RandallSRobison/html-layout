@@ -1,0 +1,45 @@
+.top-section {
+    width: 100%;
+    height: 30vh;
+    border: solid #000;
+    border-width: 5px;
+    background: #fff;
+}
+
+.purple-item {
+    width: 5vh;
+    height: 15vh;
+    margin: 85px 0px 50px 10px;    
+    background: purple;
+    display: inline-block;
+}
+
+.green-item {
+    width: 440px;
+    height: 200px;
+    margin: 100px;
+    background: green;
+    display: inline-block;
+
+}
+
+.blue-item{
+
+}
+
+.middle-section{
+    width: 100%;
+    height: 30vh;
+    margin-top: 20px;
+    border: dotted #000;
+    border-width: 5px;
+    background: #fff;
+}
+
+
+.bottom-section {
+    width: 50vh;
+    height: 30vh;
+    border: solid #777;
+    text-align: center;
+}
