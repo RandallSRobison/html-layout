@@ -9,22 +9,27 @@
 .purple-item {
     width: 5vh;
     height: 15vh;
-    margin: 85px 0px 50px 10px;    
+    margin: 100px 20px 30px 20px;
     background: purple;
     display: inline-block;
 }
 
 .green-item {
-    width: 440px;
-    height: 200px;
-    margin: 100px;
+    width: 560px;
+    height: 250px;
+    margin: 10px 40px 30px 10px;
     background: green;
     display: inline-block;
 
 }
 
 .blue-item{
-
+    width: 250px;
+    height: 250px;
+    border-radius: 250px;
+    margin: 20px 0px 30px 40px;
+    background: lightblue;
+    display: inline-block;  
 }
 
 .middle-section{
@@ -36,10 +41,26 @@
     background: #fff;
 }
 
+.yellow-box {
+    width: 97%;
+    height: 200px;
+    background: #fffdd0;
+    margin: 0 auto;
+    margin-top: 40px;
+    box-shadow: 10px 8px 10px 1px;
+    
+}
+
 
 .bottom-section {
     width: 50vh;
     height: 30vh;
+    margin: 0 auto;
+    margin-top: 30px;
     border: solid #777;
     text-align: center;
+}
+
+#text1 {
+    line-height: 300px;
 }
