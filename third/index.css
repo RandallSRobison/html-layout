@@ -1,0 +1,51 @@
+.box-top {
+    background: lightgray;
+    width: auto;
+    height: 15vh;
+}
+
+.small-blue {
+    width: 10vh;
+    height: 10vh;
+    background: #8199CF;
+    margin: 25px 10px 10px 15px;
+    display: inline-block;
+}
+
+.box-white {
+    background: white;
+    width: auto;
+    height: 45vh;
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+
+#text {
+    line-height: 24px;
+}
+
+.box-blue {
+    background: #8199CF;
+    width: auto;
+    height: 17vh;
+}
+
+.box-teal {
+    background: #1EFABE;
+    width: auto;
+    height: 17vh;
+}
+
+.box-green {
+    background: #C9FABE;
+    width: auto;
+    height: 17vh;
+}
+
+.box-yellow {
+    background: yellow;
+    width: auto;
+    height: 17vh;
+}
